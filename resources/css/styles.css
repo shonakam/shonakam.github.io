@@ -106,5 +106,9 @@ body.dark-mode {
 }
 
 main {
-	padding-bottom: 60px; /* ヘッダーの高さ分のスペースを確保 */
+	width: 100%;
+	max-width: 980px;
+	margin: 0 auto;
+	padding-top: 60px;
+	/* padding-bottom: 60px; */
 }
